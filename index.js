@@ -1,3 +1,3 @@
-import Component from './src/component.vue'
+import SimpleComponent from './src/component.vue'
 
-export default Component;
+export default SimpleComponent;

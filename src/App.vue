@@ -1,11 +1,11 @@
 <template>
   <div id="app">
-    <Component msg="Welcome to Your Vue.js App"/>
+    <simple-component msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
-import Component from '../index'
+import SimpleComponent from '../index'
 
 export default {
   name: 'app',
