@@ -10,7 +10,7 @@ import SimpleComponent from '../index'
 export default {
   name: 'app',
   components: {
-    Component
+    SimpleComponent
   }
 }
 </script>
