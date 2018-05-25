@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/Stiv/simple-vue-component.git"
   },
+  "main": "index.js",
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
