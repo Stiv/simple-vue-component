@@ -12,6 +12,7 @@
 <script>
 import "../node_modules/ag-grid/dist/styles/ag-grid.css";
 import "../node_modules/ag-grid/dist/styles/ag-theme-balham.css";
+import {AgGridVue} from "ag-grid-vue";
 
 export default {
   name: 'SimpleComponent',
