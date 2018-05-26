@@ -5,7 +5,7 @@
   "description": "Simple vue component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stiv/simple-vue-component.git"
+    "url": "https://github.com/Stiv/simple-vue-component.git#ag-grid-wrap"
   },
   "main": "index.js",
   "scripts": {
