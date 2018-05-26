@@ -1126,6 +1126,14 @@ address@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/address/-/address-1.0.3.tgz#b5f50631f8d6cec8bd20c963963afb55e06cbce9"
 
+ag-grid-vue@^17.1.0:
+  version "17.1.0"
+  resolved "https://registry.yarnpkg.com/ag-grid-vue/-/ag-grid-vue-17.1.0.tgz#1d6ce20345b5e51018a246adcf4a9772202d9df2"
+
+ag-grid@^17.1.1:
+  version "17.1.1"
+  resolved "https://registry.yarnpkg.com/ag-grid/-/ag-grid-17.1.1.tgz#6c7010a65d6e8b6373e2fe97643c9eecf5417026"
+
 ajv-keywords@^2.1.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/ajv-keywords/-/ajv-keywords-2.1.1.tgz#617997fc5f60576894c435f940d819e135b80762"
